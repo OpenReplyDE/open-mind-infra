@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Open Mind IAC
 
-This is a blank project for CDK development with TypeScript.
+This is the iac project for CDK development with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
@@ -173,5 +173,5 @@ aws logs get-log-events --log-group-name /ecs/<service-name>
 
 ## License
 
-
+MIT
 
