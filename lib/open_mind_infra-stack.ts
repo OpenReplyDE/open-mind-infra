@@ -7,7 +7,7 @@ import * as secretsmanager from "aws-cdk-lib/aws-secretsmanager";
 
 const ECR_REPO = "openmind";
 const SECRET = "openmind";
-const IMAGE_TAG = "3ab6823cfb5c620f6d122b2ac2b8eaf25a69fa94";
+const IMAGE_TAG = "bd68dfce2ec3bad2507ce9611e3710333fc8966f";
 
 export class OpenMindInfraStack extends cdk.Stack {
   constructor(scope: cdk.App, id: string, props?: cdk.StackProps) {
